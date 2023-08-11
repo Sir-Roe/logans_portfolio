@@ -37,20 +37,12 @@ class MUSE_SQL:
     def update_data_sql(self):
         #Used to take my DF and send into database
         self.df.to_sql('music',con=self.__sql_url, if_exists='replace')
+    
+    def query(self,str1):
+        self.__cur.execute(str1)
+        self.__cur.fetchall()
 
     def refresh(self):
         self.create_dataframe()
         self.update_data_sql()
 
-
-'''  def query_db(self, sql_filepath: str):
-        start = self.create_file(sql_filepath)
-        queries = start.split(';')
-        for query in queries:
-            try:
-                print(query)
-                self.__cur.execute(query)
-                self.__TS_con.commit()
-                print(self.__cur.fetchall())
-            except psycopg2.ProgrammingError as msg:
-                print(f'Error: {msg}')'''
