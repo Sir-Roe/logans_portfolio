@@ -1,0 +1,390 @@
+,city,country,venue,opening_act(s),revenue,tour,tickets_sold,tickets_available,ticket_consumption
+0,Evansville,United States,Roberts Municipal Stadium,"['Gloriana', 'Kellie Pickler']",360617,Fearless,7463,7463,1.0
+1,Jonesboro,United States,Convocation Center,"['Gloriana', 'Kellie Pickler']",340328,Fearless,7822,7822,1.0
+2,St. Louis,United States,Scottrade Center,"['Gloriana', 'Kellie Pickler']",650420,Fearless,13764,13764,1.0
+4,North Charleston,United States,North Charleston Coliseum,"['Gloriana', 'Kellie Pickler']",398154,Fearless,8751,8751,1.0
+5,Jacksonville,United States,Jacksonville Veterans Memorial Arena,"['Gloriana', 'Kellie Pickler']",507012,Fearless,11072,11072,1.0
+6,Biloxi,United States,Mississippi Coast Coliseum,"['Gloriana', 'Kellie Pickler']",437313,Fearless,9436,9436,1.0
+9,Spokane,United States,Spokane Arena,"['Gloriana', 'Kellie Pickler']",482146,Fearless,10798,10798,1.0
+10,Seattle,United States,KeyArena,"['Gloriana', 'Kellie Pickler']",528637,Fearless,12061,12061,1.0
+11,Portland,United States,Rose Garden Arena,"['Gloriana', 'Kellie Pickler']",613284,Fearless,13226,13226,1.0
+12,Nampa,United States,Ford Arena,"['Gloriana', 'Kellie Pickler']",413622,Fearless,8970,8970,1.0
+13,Glendale,United States,Jobing.com Arena,"['Gloriana', 'Kellie Pickler']",647923,Fearless,13052,13052,1.0
+14,Los Angeles,United States,Staples Center,"['Gloriana', 'Kellie Pickler']",720940,Fearless,13648,13648,1.0
+15,Paradise,United States,Mandalay Bay Events Center,"['Gloriana', 'Kellie Pickler']",551051,Fearless,8311,8311,1.0
+16,San Diego,United States,Valley View Casino Center,"['Gloriana', 'Kellie Pickler']",502689,Fearless,10174,10174,1.0
+17,Salt Lake City,United States,EnergySolutions Arena,"['Gloriana', 'Kellie Pickler']",555207,Fearless,13042,13042,1.0
+19,Columbia,United States,Merriweather Post Pavilion,"['Gloriana', 'Kellie Pickler']",608438,Fearless,17619,17619,1.0
+20,Greensboro,United States,Greensboro Coliseum,"['Gloriana', 'Kellie Pickler']",690959,Fearless,14641,14641,1.0
+26,Winnipeg,Canada,MTS Centre,"['Gloriana', 'Kellie Pickler']",512487,Fearless,11369,11369,1.0
+38,New York City,United States,Madison Square Garden,"['Gloriana', 'Kellie Pickler']",976062,Fearless,13597,13597,1.0
+39,Montville,United States,Mohegan Sun Arena,"['Gloriana', 'Kellie Pickler']",296306,Fearless,7507,7507,1.0
+48,Nashville,United States,Bridgestone Arena,"['Gloriana', 'Kellie Pickler']",642387,Fearless,14269,14269,1.0
+49,Dallas,United States,American Airlines Center,"['Gloriana', 'Kellie Pickler']",628062,Fearless,13794,13794,1.0
+50,North Little Rock,United States,Verizon Arena,"['Gloriana', 'Kellie Pickler']",654089,Fearless,13978,13978,1.0
+54,Cleveland,United States,Quicken Loans Arena,"['Gloriana', 'Kellie Pickler']",743492,Fearless,15524,15524,1.0
+55,Indianapolis,United States,Conseco Fieldhouse,"['Gloriana', 'Kellie Pickler']",634876,Fearless,13373,13373,1.0
+56,Rosemont,United States,Allstate Arena,"['Gloriana', 'Kellie Pickler']",1150896,Fearless,26265,26265,1.0
+57,Rosemont,United States,Allstate Arena,"['Gloriana', 'Kellie Pickler']",1150896,Fearless,26265,26265,1.0
+58,Minneapolis,United States,Target Center,"['Gloriana', 'Kellie Pickler']",623975,Fearless,13563,13563,1.0
+61,Brisbane,Australia,Brisbane Entertainment Centre,['Gloriana'],956505,Fearless,11334,11334,1.0
+62,Sydney,Australia,Acer Arena,['Gloriana'],2030640,Fearless,27030,27030,1.0
+63,Sydney,Australia,Acer Arena,['Gloriana'],2030640,Fearless,27030,27030,1.0
+64,Newcastle,Australia,Newcastle Entertainment Centre,['Gloriana'],555396,Fearless,7180,7180,1.0
+65,Melbourne,Australia,Rod Laver Arena,['Gloriana'],1627510,Fearless,23493,23493,1.0
+66,Melbourne,Australia,Rod Laver Arena,['Gloriana'],1627510,Fearless,23493,23493,1.0
+67,Adelaide,Australia,Adelaide Entertainment Centre,['Gloriana'],585352,Fearless,9066,9066,1.0
+69,Tampa,United States,St. Pete Times Forum,"['Gloriana', 'Kellie Pickler']",793049,Fearless,13861,13861,1.0
+70,Orlando,United States,Amway Arena,"['Gloriana', 'Kellie Pickler']",598581,Fearless,11101,11101,1.0
+71,Sunrise,United States,BankAtlantic Center,"['Gloriana', 'Kellie Pickler']",777442,Fearless,13453,13453,1.0
+72,Austin,United States,Frank Erwin Center,"['Gloriana', 'Kellie Pickler']",642705,Fearless,11928,11928,1.0
+73,Dallas,United States,American Airlines Center,"['Gloriana', 'Kellie Pickler']",742954,Fearless,14022,14022,1.0
+74,Corpus Christi,United States,American Bank Center Arena,"['Gloriana', 'Kellie Pickler']",501169,Fearless,8423,8423,1.0
+75,Philadelphia,United States,Wells Fargo Center,"['Gloriana', 'Kellie Pickler']",2002321,Fearless,30360,30360,1.0
+76,Philadelphia,United States,Wells Fargo Center,"['Gloriana', 'Kellie Pickler']",2002321,Fearless,30360,30360,1.0
+77,Charlottesville,United States,John Paul Jones Arena,"['Gloriana', 'Kellie Pickler']",664305,Fearless,11858,11858,1.0
+78,Auburn Hills,United States,The Palace of Auburn Hills,"['Gloriana', 'Kellie Pickler']",1711591,Fearless,29125,29125,1.0
+79,Auburn Hills,United States,The Palace of Auburn Hills,"['Gloriana', 'Kellie Pickler']",1711591,Fearless,29125,29125,1.0
+80,Cincinnati,United States,U.S. Bank Arena,"['Gloriana', 'Kellie Pickler']",645592,Fearless,11208,11208,1.0
+81,Oklahoma City,United States,Ford Center,"['Gloriana', 'Kellie Pickler']",675184,Fearless,11795,11795,1.0
+82,Wichita,United States,Intrust Bank Arena,"['Gloriana', 'Kellie Pickler']",610801,Fearless,11208,11208,1.0
+83,Kansas City,United States,Sprint Center,"['Gloriana', 'Kellie Pickler']",761110,Fearless,13781,13781,1.0
+84,Denver,United States,Pepsi Center,"['Gloriana', 'Kellie Pickler']",1497135,Fearless,25991,25991,1.0
+85,Denver,United States,Pepsi Center,"['Gloriana', 'Kellie Pickler']",1497135,Fearless,25991,25991,1.0
+86,Fresno,United States,Save Mart Center,"['Gloriana', 'Kellie Pickler']",649488,Fearless,11706,11706,1.0
+87,San Jose,United States,HP Pavilion,"['Gloriana', 'Kellie Pickler']",716726,Fearless,12744,12744,1.0
+88,Los Angeles,United States,Staples Center,"['Gloriana', 'Kellie Pickler']",1736197,Fearless,27518,27518,1.0
+89,Los Angeles,United States,Staples Center,"['Gloriana', 'Kellie Pickler']",1736197,Fearless,27518,27518,1.0
+90,Lexington,United States,Rupp Arena,"['Gloriana', 'Kellie Pickler']",1024223,Fearless,17966,17966,1.0
+91,Columbia,United States,Colonial Life Arena,"['Gloriana', 'Kellie Pickler']",755475,Fearless,13429,13429,1.0
+92,Raleigh,United States,RBC Center,"['Gloriana', 'Kellie Pickler']",752303,Fearless,13895,13895,1.0
+93,Des Moines,United States,Wells Fargo Arena,"['Gloriana', 'Kellie Pickler']",738280,Fearless,13264,13264,1.0
+94,Saint Paul,United States,Xcel Energy Center,"['Gloriana', 'Kellie Pickler']",846111,Fearless,14914,14914,1.0
+95,Moline,United States,iWireless Center,"['Gloriana', 'Kellie Pickler']",610668,Fearless,10641,10641,1.0
+96,Newark,United States,Prudential Center,"['Gloriana', 'Kellie Pickler']",1742669,Fearless,26065,26065,1.0
+97,Newark,United States,Prudential Center,"['Gloriana', 'Kellie Pickler']",1742669,Fearless,26065,26065,1.0
+98,Uniondale,United States,Nassau Veterans Memorial Coliseum,"['Gloriana', 'Kellie Pickler']",1713529,Fearless,25831,25831,1.0
+99,Uniondale,United States,Nassau Veterans Memorial Coliseum,"['Gloriana', 'Kellie Pickler']",1713529,Fearless,25831,25831,1.0
+100,Ottawa,Canada,Scotiabank Place,"['Gloriana', 'Kellie Pickler']",873206,Fearless,13376,13376,1.0
+101,Toronto,Canada,Air Canada Centre,"['Gloriana', 'Kellie Pickler']",2497690,Fearless,30458,30458,1.0
+102,Toronto,Canada,Air Canada Centre,"['Gloriana', 'Kellie Pickler']",2497690,Fearless,30458,30458,1.0
+103,Houston,United States,Toyota Center,"['Gloriana', 'Kellie Pickler']",1290926,Fearless,23493,23493,1.0
+104,Houston,United States,Toyota Center,"['Gloriana', 'Kellie Pickler']",1290926,Fearless,23493,23493,1.0
+106,Washington,United States,Verizon Center,"['Gloriana', 'Kellie Pickler']",1824743,Fearless,27290,27290,1.0
+107,Washington,United States,Verizon Center,"['Gloriana', 'Kellie Pickler']",1824743,Fearless,27290,27290,1.0
+108,Foxborough,United States,Gillette Stadium,"['Gloriana', 'Justin Bieber', 'Kellie Pickler']",3726157,Fearless,56868,56868,1.0
+111,Singapore,Singapore,Singapore Indoor Stadium,['Sezairi Sezali'],916850,Speak_Now_World,8964,8964,1.0
+116,Quezon City,Philippines,Smart Araneta Coliseum,['Sam Concepcion'],859037,Speak_Now_World,12667,12667,1.0
+117,Hong Kong,Hong Kong,AsiaWorldArena,['Saito Johnny'],1030633,Speak_Now_World,12573,12573,1.0
+118,Brussels,Belgium,Forest National,['Tom Dice'],219212,Speak_Now_World,4622,4622,1.0
+119,Rotterdam,Netherlands,Sportpaleis van Ahoy,['Tom Dice'],248314,Speak_Now_World,4799,4799,1.0
+121,Oberhausen,Germany,Knig Pilsener Arena,['Martin & James'],370028,Speak_Now_World,6082,6082,1.0
+122,Milan,Italy,Mediolanum Forum,['Emma Marrone'],153303,Speak_Now_World,3421,5585,0.6125335720680394
+124,Madrid,Spain,Palacio de los Deportes,['The Bright'],251864,Speak_Now_World,3962,3962,1.0
+125,Birmingham,England,LG Arena,['Martin & James'],508854,Speak_Now_World,9339,9339,1.0
+126,Belfast,Northern Ireland,Odyssey Arena,['Ryan Sheridan'],379001,Speak_Now_World,8058,8058,1.0
+127,Dublin,Ireland,The O2,['Ryan Sheridan'],419806,Speak_Now_World,8681,8681,1.0
+128,Manchester,England,Manchester Evening News Arena,['Martin & James'],580558,Speak_Now_World,10488,11622,0.9024264326277749
+129,London,England,The O2 Arena,['Martin & James'],891152,Speak_Now_World,15265,15681,0.9734710796505325
+130,Omaha,United States,Qwest Center Omaha,['Needtobreathe'],1717104,Speak_Now_World,26992,26992,1.0
+131,Omaha,United States,Qwest Center Omaha,['Needtobreathe'],1717104,Speak_Now_World,26992,26992,1.0
+132,Des Moines,United States,Wells Fargo Arena,['Needtobreathe'],862771,Speak_Now_World,13149,13149,1.0
+133,Sunrise,United States,BankAtlantic Center,['Needtobreathe'],1582951,Speak_Now_World,24077,24077,1.0
+134,Sunrise,United States,BankAtlantic Center,['Needtobreathe'],1582951,Speak_Now_World,24077,24077,1.0
+135,Orlando,United States,Amway Center,['Needtobreathe'],791980,Speak_Now_World,12262,12262,1.0
+136,Columbus,United States,Nationwide Arena,['Needtobreathe'],955259,Speak_Now_World,14817,14817,1.0
+137,Milwaukee,United States,Bradley Center,['Needtobreathe'],897042,Speak_Now_World,13748,13748,1.0
+138,Detroit,United States,Ford Field,['Needtobreathe'],3453549,Speak_Now_World,47992,47992,1.0
+139,Saint Paul,United States,Xcel Energy Center,['Needtobreathe'],1913737,Speak_Now_World,28977,28977,1.0
+140,Saint Paul,United States,Xcel Energy Center,['Needtobreathe'],1913737,Speak_Now_World,28977,28977,1.0
+141,Pittsburgh,United States,Heinz Field,['Needtobreathe'],4009118,Speak_Now_World,52009,52009,1.0
+142,Buffalo,United States,First Niagara Center,['Needtobreathe'],966749,Speak_Now_World,14487,14487,1.0
+143,Hartford,United States,XL Center,['Needtobreathe'],810165,Speak_Now_World,12436,12436,1.0
+144,Foxborough,United States,Gillette Stadium,['Needtobreathe'],8026350,Speak_Now_World,110800,110800,1.0
+145,Foxborough,United States,Gillette Stadium,['Needtobreathe'],8026350,Speak_Now_World,110800,110800,1.0
+146,Greensboro,United States,Greensboro Coliseum,['Needtobreathe'],990701,Speak_Now_World,14789,14789,1.0
+147,Knoxville,United States,ThompsonBoling Arena,['Needtobreathe'],903875,Speak_Now_World,13754,13754,1.0
+148,Montreal,Canada,Bell Centre,['Needtobreathe'],1254230,Speak_Now_World,13439,13439,1.0
+149,Toronto,Canada,Air Canada Centre,['Needtobreathe'],3036000,Speak_Now_World,30144,30144,1.0
+150,Toronto,Canada,Air Canada Centre,['Needtobreathe'],3036000,Speak_Now_World,30144,30144,1.0
+151,Newark,United States,Prudential Center,['Needtobreathe'],3875463,Speak_Now_World,51487,51487,1.0
+152,Newark,United States,Prudential Center,['Needtobreathe'],3875463,Speak_Now_World,51487,51487,1.0
+153,Newark,United States,Prudential Center,['Needtobreathe'],3875463,Speak_Now_World,51487,51487,1.0
+154,Newark,United States,Prudential Center,['Needtobreathe'],3875463,Speak_Now_World,51487,51487,1.0
+155,Grand Rapids,United States,Van Andel Arena,['Needtobreathe'],724854,Speak_Now_World,11012,11012,1.0
+156,Indianapolis,United States,Conseco Fieldhouse,['Needtobreathe'],877175,Speak_Now_World,13329,13329,1.0
+157,Cleveland,United States,Quicken Loans Arena,['Needtobreathe'],976954,Speak_Now_World,14873,14873,1.0
+158,Washington,United States,Verizon Center,['Needtobreathe'],2068789,Speak_Now_World,29303,29303,1.0
+159,Washington,United States,Verizon Center,['Needtobreathe'],2068789,Speak_Now_World,29303,29303,1.0
+160,Philadelphia,United States,Lincoln Financial Field,['Needtobreathe'],4268678,Speak_Now_World,51395,51395,1.0
+161,Rosemont,United States,Allstate Arena,['Needtobreathe'],1909603,Speak_Now_World,26112,26112,1.0
+162,Rosemont,United States,Allstate Arena,['Needtobreathe'],1909603,Speak_Now_World,26112,26112,1.0
+163,St. Louis,United States,Scottrade Center,['Needtobreathe'],1850159,Speak_Now_World,27965,27965,1.0
+164,St. Louis,United States,Scottrade Center,['Needtobreathe'],1850159,Speak_Now_World,27965,27965,1.0
+165,Edmonton,Canada,Rexall Place,['Needtobreathe'],2136270,Speak_Now_World,25336,25336,1.0
+166,Edmonton,Canada,Rexall Place,['Needtobreathe'],2136270,Speak_Now_World,25336,25336,1.0
+167,Los Angeles,United States,Staples Center,['Needtobreathe'],3927154,Speak_Now_World,54900,54900,1.0
+168,Los Angeles,United States,Staples Center,['Needtobreathe'],3927154,Speak_Now_World,54900,54900,1.0
+169,Los Angeles,United States,Staples Center,['Needtobreathe'],3927154,Speak_Now_World,54900,54900,1.0
+170,Los Angeles,United States,Staples Center,['Needtobreathe'],3927154,Speak_Now_World,54900,54900,1.0
+171,San Jose,United States,HP Pavilion,['Needtobreathe'],1825448,Speak_Now_World,24827,24827,1.0
+172,San Jose,United States,HP Pavilion,['Needtobreathe'],1825448,Speak_Now_World,24827,24827,1.0
+173,Sacramento,United States,Power Balance Pavilion,['Needtobreathe'],934326,Speak_Now_World,12432,12432,1.0
+174,Portland,United States,Rose Garden Arena,['Needtobreathe'],903445,Speak_Now_World,13610,13610,1.0
+175,Tacoma,United States,Tacoma Dome,['Needtobreathe'],1289430,Speak_Now_World,19904,19904,1.0
+176,Vancouver,Canada,Rogers Arena,['Needtobreathe'],2190680,Speak_Now_World,26030,26030,1.0
+177,Vancouver,Canada,Rogers Arena,['Needtobreathe'],2190680,Speak_Now_World,26030,26030,1.0
+178,Nashville,United States,Bridgestone Arena,['Needtobreathe'],1841134,Speak_Now_World,28178,28178,1.0
+179,Nashville,United States,Bridgestone Arena,['Needtobreathe'],1841134,Speak_Now_World,28178,28178,1.0
+180,Bossier City,United States,CenturyLink Center,['Needtobreathe'],728546,Speak_Now_World,11510,11510,1.0
+181,Tulsa,United States,BOK Center,['Needtobreathe'],907573,Speak_Now_World,12546,12546,1.0
+182,Kansas City,United States,Arrowhead Stadium,['Needtobreathe'],3148046,Speak_Now_World,48562,48562,1.0
+183,Denver,United States,Pepsi Center,['Needtobreathe'],834916,Speak_Now_World,12908,12908,1.0
+184,Salt Lake City,United States,EnergySolutions Arena,['Needtobreathe'],896946,Speak_Now_World,13720,13720,1.0
+185,Atlanta,United States,Philips Arena,['Needtobreathe'],1726661,Speak_Now_World,26244,26244,1.0
+186,Atlanta,United States,Philips Arena,['Needtobreathe'],1726661,Speak_Now_World,26244,26244,1.0
+187,North Little Rock,United States,Verizon Arena,['Needtobreathe'],856123,Speak_Now_World,13566,13566,1.0
+188,New Orleans,United States,New Orleans Arena,['Needtobreathe'],830289,Speak_Now_World,12943,12943,1.0
+189,Arlington,United States,Cowboys Stadium,['Needtobreathe'],4337062,Speak_Now_World,55451,55451,1.0
+190,Louisville,United States,KFC Yum! Center,['Needtobreathe'],1003828,Speak_Now_World,14848,14848,1.0
+191,Lubbock,United States,United Spirit Arena,['Needtobreathe'],710426,Speak_Now_World,10419,10419,1.0
+192,Oklahoma City,United States,Chesapeake Energy Arena,['Needtobreathe'],758364,Speak_Now_World,11592,11592,1.0
+193,San Diego,United States,Valley View Casino Center,['Needtobreathe'],792634,Speak_Now_World,10834,10834,1.0
+194,Glendale,United States,Jobing.com Arena,['Needtobreathe'],1826025,Speak_Now_World,27029,27029,1.0
+195,Glendale,United States,Jobing.com Arena,['Needtobreathe'],1826025,Speak_Now_World,27029,27029,1.0
+196,San Antonio,United States,AT&T Center,['Needtobreathe'],901535,Speak_Now_World,13851,13851,1.0
+197,Austin,United States,Frank Erwin Center,['Needtobreathe'],752078,Speak_Now_World,11999,11999,1.0
+198,Lexington,United States,Rupp Arena,['Needtobreathe'],1041935,Speak_Now_World,16237,16237,1.0
+199,Memphis,United States,FedExForum,['Needtobreathe'],820036,Speak_Now_World,12604,12604,1.0
+200,Houston,United States,Minute Maid Park,['Needtobreathe'],3435756,Speak_Now_World,42095,42095,1.0
+201,Jacksonville,United States,Jacksonville Veterans Memorial Arena,['Needtobreathe'],749099,Speak_Now_World,11785,11785,1.0
+202,Tampa,United States,St. Pete Times Forum,['Needtobreathe'],914300,Speak_Now_World,13695,13695,1.0
+203,Miami,United States,American Airlines Arena,['Needtobreathe'],786904,Speak_Now_World,12153,12153,1.0
+204,Charlotte,United States,Time Warner Cable Arena,['Needtobreathe'],920903,Speak_Now_World,14272,14272,1.0
+205,Raleigh,United States,RBC Center,['Needtobreathe'],866056,Speak_Now_World,13567,13567,1.0
+206,Columbia,United States,Colonial Life Arena,['Needtobreathe'],828231,Speak_Now_World,12807,12807,1.0
+207,New York,United States,Madison Square Garden,['Needtobreathe'],1988411,Speak_Now_World,26652,26652,1.0
+208,New York,United States,Madison Square Garden,['Needtobreathe'],1988411,Speak_Now_World,26652,26652,1.0
+209,Perth,Australia,Burswood Dome,['Hot Chelle Rae'],1878530,Speak_Now_World,15142,15142,1.0
+210,Adelaide,Australia,Adelaide Entertainment Centre,['Hot Chelle Rae'],1075370,Speak_Now_World,8589,8589,1.0
+211,Brisbane,Australia,Brisbane Entertainment Centre,['Hot Chelle Rae'],2416030,Speak_Now_World,19870,19870,1.0
+212,Brisbane,Australia,Brisbane Entertainment Centre,['Hot Chelle Rae'],2416030,Speak_Now_World,19870,19870,1.0
+213,Sydney,Australia,Allphones Arena,['Hot Chelle Rae'],3420360,Speak_Now_World,27900,27900,1.0
+214,Sydney,Australia,Allphones Arena,['Hot Chelle Rae'],3420360,Speak_Now_World,27900,27900,1.0
+215,Melbourne,Australia,Rod Laver Arena,['Hot Chelle Rae'],4151650,Speak_Now_World,33793,33793,1.0
+216,Melbourne,Australia,Rod Laver Arena,['Hot Chelle Rae'],4151650,Speak_Now_World,33793,33793,1.0
+217,Melbourne,Australia,Rod Laver Arena,['Hot Chelle Rae'],4151650,Speak_Now_World,33793,33793,1.0
+218,Auckland,New Zealand,Vector Arena,['Hot Chelle Rae'],2888560,Speak_Now_World,32585,32585,1.0
+219,Auckland,New Zealand,Vector Arena,['Hot Chelle Rae'],2888560,Speak_Now_World,32585,32585,1.0
+220,Auckland,New Zealand,Vector Arena,['Hot Chelle Rae'],2888560,Speak_Now_World,32585,32585,1.0
+221,Omaha,United States,CenturyLink Center Omaha,"['Ed Sheeran', 'Brett Eldredge']",2243164,The_Red,27877,27877,1.0
+222,Omaha,United States,CenturyLink Center Omaha,"['Ed Sheeran', 'Brett Eldredge']",2243164,The_Red,27877,27877,1.0
+223,St. Louis,United States,Scottrade Center,"['Ed Sheeran', 'Brett Eldredge']",2346203,The_Red,28582,28582,1.0
+224,St. Louis,United States,Scottrade Center,"['Ed Sheeran', 'Brett Eldredge']",2346203,The_Red,28582,28582,1.0
+225,Charlotte,United States,Time Warner Cable Arena,"['Ed Sheeran', 'Brett Eldredge']",1162733,The_Red,14686,14686,1.0
+226,Columbia,United States,Colonial Life Arena,"['Ed Sheeran', 'Brett Eldredge']",996114,The_Red,12490,12490,1.0
+227,Newark,United States,Prudential Center,"['Ed Sheeran', 'Florida Georgia Line']",3565317,The_Red,38065,38065,1.0
+228,Newark,United States,Prudential Center,"['Ed Sheeran', 'Florida Georgia Line']",3565317,The_Red,38065,38065,1.0
+229,Newark,United States,Prudential Center,"['Ed Sheeran', 'Florida Georgia Line']",3565317,The_Red,38065,38065,1.0
+230,Miami,United States,American Airlines Arena,"['Ed Sheeran', 'Brett Eldredge']",1010175,The_Red,12808,12808,1.0
+231,Orlando,United States,Amway Center,"['Ed Sheeran', 'Brett Eldredge']",2054128,The_Red,25617,25617,1.0
+232,Orlando,United States,Amway Center,"['Ed Sheeran', 'Brett Eldredge']",2054128,The_Red,25617,25617,1.0
+233,Atlanta,United States,Philips Arena,"['Ed Sheeran', 'Brett Eldredge']",2048023,The_Red,25471,25471,1.0
+234,Atlanta,United States,Philips Arena,"['Ed Sheeran', 'Brett Eldredge']",2048023,The_Red,25471,25471,1.0
+235,Tampa,United States,Tampa Bay Times Forum,"['Ed Sheeran', 'Brett Eldredge']",1132095,The_Red,14080,14080,1.0
+236,Cleveland,United States,Quicken Loans Arena,"['Ed Sheeran', 'Brett Eldredge']",1247605,The_Red,15336,15336,1.0
+237,Indianapolis,United States,Bankers Life Fieldhouse,"['Ed Sheeran', 'Brett Eldredge']",1082042,The_Red,13573,13573,1.0
+238,Lexington,United States,Rupp Arena,"['Ed Sheeran', 'Brett Eldredge']",1342699,The_Red,17003,17003,1.0
+239,Detroit,United States,Ford Field,"['Ed Sheeran', 'Austin Mahone', 'Brett Eldredge']",3969059,The_Red,48265,48265,1.0
+240,Louisville,United States,KFC Yum! Center,"['Ed Sheeran', 'Florida Georgia Line']",1246491,The_Red,15135,15135,1.0
+241,Columbus,United States,Nationwide Arena,"['Ed Sheeran', 'Florida Georgia Line']",1155170,The_Red,14267,14267,1.0
+242,Washington,United States,Verizon Center,"['Ed Sheeran', 'Brett Eldredge']",2489205,The_Red,27619,27619,1.0
+243,Washington,United States,Verizon Center,"['Ed Sheeran', 'Brett Eldredge']",2489205,The_Red,27619,27619,1.0
+244,Houston,United States,Toyota Center,"['Ed Sheeran', 'Brett Eldredge']",961422,The_Red,12467,12467,1.0
+245,Austin,United States,Frank Erwin Center,"['Ed Sheeran', 'Florida Georgia Line']",935631,The_Red,11916,11916,1.0
+246,San Antonio,United States,AT&T Center,"['Ed Sheeran', 'Florida Georgia Line']",1105253,The_Red,13974,13974,1.0
+247,Arlington,United States,Cowboys Stadium,"['Ed Sheeran', 'Austin Mahone', 'Florida Georgia Line']",4589266,The_Red,53020,53020,1.0
+248,Glendale,United States,Jobing.com Arena,"['Ed Sheeran', 'Joel Crouse']",2239370,The_Red,26705,26705,1.0
+249,Glendale,United States,Jobing.com Arena,"['Ed Sheeran', 'Joel Crouse']",2239370,The_Red,26705,26705,1.0
+250,Salt Lake City,United States,EnergySolutions Arena,"['Ed Sheeran', 'Joel Crouse']",1139360,The_Red,14007,14007,1.0
+251,Denver,United States,Pepsi Center,"['Ed Sheeran', 'Joel Crouse']",1076069,The_Red,13489,13489,1.0
+252,Toronto,Canada,Rogers Centre,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",7863310,The_Red,87627,87627,1.0
+253,Toronto,Canada,Rogers Centre,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",7863310,The_Red,87627,87627,1.0
+254,Winnipeg,Canada,Investors Group Field,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",3175430,The_Red,33061,33061,1.0
+255,Edmonton,Canada,Rexall Place,"['Ed Sheeran', 'Joel Crouse']",2379870,The_Red,25663,25663,1.0
+256,Edmonton,Canada,Rexall Place,"['Ed Sheeran', 'Joel Crouse']",2379870,The_Red,25663,25663,1.0
+257,Vancouver,Canada,BC Place Stadium,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",3974410,The_Red,41142,41142,1.0
+258,Pittsburgh,United States,Heinz Field,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",4718518,The_Red,56047,56047,1.0
+259,East Rutherford,United States,MetLife Stadium,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",4670011,The_Red,52399,52399,1.0
+260,Philadelphia,United States,Lincoln Financial Field,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",8822335,The_Red,101277,101277,1.0
+261,Philadelphia,United States,Lincoln Financial Field,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",8822335,The_Red,101277,101277,1.0
+262,Foxborough,United States,Gillette Stadium,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",9464063,The_Red,110712,110712,1.0
+263,Foxborough,United States,Gillette Stadium,"['Ed Sheeran', 'Austin Mahone', 'Joel Crouse']",9464063,The_Red,110712,110712,1.0
+264,Des Moines,United States,Wells Fargo Arena,"['Ed Sheeran', 'Florida Georgia Line']",1075576,The_Red,13368,13368,1.0
+265,Kansas City,United States,Sprint Center,"['Ed Sheeran', 'Florida Georgia Line']",2093172,The_Red,26412,26412,1.0
+266,Kansas City,United States,Sprint Center,"['Ed Sheeran', 'Florida Georgia Line']",2093172,The_Red,26412,26412,1.0
+267,Wichita,United States,Intrust Bank Arena,"['Ed Sheeran', 'Casey James']",983882,The_Red,12231,12231,1.0
+268,Tulsa,United States,BOK Center,"['Ed Sheeran', 'Casey James']",868955,The_Red,10949,10949,1.0
+269,Chicago,United States,Soldier Field,"['Ed Sheeran', 'Austin Mahone', 'Casey James']",4149148,The_Red,50809,50809,1.0
+270,San Diego,United States,Valley View Casino Center,"['Ed Sheeran', 'Casey James']",948541,The_Red,10872,10872,1.0
+271,Los Angeles,United States,Staples Center,"['Ed Sheeran', 'Casey James']",4734463,The_Red,55829,55829,1.0
+272,Los Angeles,United States,Staples Center,"['Ed Sheeran', 'Casey James']",4734463,The_Red,55829,55829,1.0
+273,Los Angeles,United States,Staples Center,"['Ed Sheeran', 'Casey James']",4734463,The_Red,55829,55829,1.0
+274,Los Angeles,United States,Staples Center,"['Ed Sheeran', 'Casey James']",4734463,The_Red,55829,55829,1.0
+275,Sacramento,United States,Sleep Train Arena,"['Ed Sheeran', 'Casey James']",1138103,The_Red,12795,12795,1.0
+276,Portland,United States,Moda Center,"['Ed Sheeran', 'Casey James']",1084760,The_Red,13952,13952,1.0
+277,Tacoma,United States,Tacoma Dome,"['Ed Sheeran', 'Casey James']",1584049,The_Red,20348,20348,1.0
+278,Fargo,United States,Fargodome,"['Ed Sheeran', 'Casey James']",1661578,The_Red,21073,21073,1.0
+279,Saint Paul,United States,Xcel Energy Center,"['Ed Sheeran', 'Casey James']",2320937,The_Red,28920,28920,1.0
+280,Saint Paul,United States,Xcel Energy Center,"['Ed Sheeran', 'Casey James']",2320937,The_Red,28920,28920,1.0
+281,Greensboro,United States,Greensboro Coliseum,"['Ed Sheeran', 'Casey James']",1109253,The_Red,13650,13650,1.0
+282,Raleigh,United States,PNC Arena,"['Ed Sheeran', 'Casey James']",1088612,The_Red,13941,13941,1.0
+283,Charlottesville,United States,John Paul Jones Arena,"['Ed Sheeran', 'Casey James']",997216,The_Red,12689,12689,1.0
+284,Nashville,United States,Bridgestone Arena,"['Ed Sheeran', 'Casey James']",3336545,The_Red,41292,41292,1.0
+285,Nashville,United States,Bridgestone Arena,"['Ed Sheeran', 'Casey James']",3336545,The_Red,41292,41292,1.0
+286,Nashville,United States,Bridgestone Arena,"['Ed Sheeran', 'Casey James']",3336545,The_Red,41292,41292,1.0
+287,Auckland,New Zealand,Vector Arena,['Neon Trees'],3100290,The_Red,30799,30799,1.0
+288,Auckland,New Zealand,Vector Arena,['Neon Trees'],3100290,The_Red,30799,30799,1.0
+289,Auckland,New Zealand,Vector Arena,['Neon Trees'],3100290,The_Red,30799,30799,1.0
+290,Sydney,Australia,Allianz Stadium,"['Guy Sebastian', 'Neon Trees']",4096060,The_Red,40930,40930,1.0
+291,Brisbane,Australia,Suncorp Stadium,"['Guy Sebastian', 'Neon Trees']",3895810,The_Red,38907,38907,1.0
+292,Perth,Australia,Perth Rectangular Stadium,"['Guy Sebastian', 'Neon Trees']",2364080,The_Red,21827,21827,1.0
+293,Melbourne,Australia,Etihad Stadium,"['Guy Sebastian', 'Neon Trees']",4547250,The_Red,47257,47257,1.0
+294,London,England,The O2 Arena,['The Vamps'],5829240,The_Red,74740,74740,1.0
+295,London,England,The O2 Arena,['The Vamps'],5829240,The_Red,74740,74740,1.0
+296,London,England,The O2 Arena,['The Vamps'],5829240,The_Red,74740,74740,1.0
+297,Berlin,Germany,O2 World,['Andreas Bourani'],755006,The_Red,10350,10350,1.0
+301,Saitama,Japan,Saitama Super Arena,['CTS'],1837147,The_Red,20046,20046,1.0
+302,Jakarta,Indonesia,MEIS Ancol,['Nicole Zefanya'],1481473,The_Red,8130,8130,1.0
+303,Pasay,Philippines,Mall of Asia Arena,['Meg Bucsit'],1511662,The_Red,9775,9775,1.0
+304,Singapore,Singapore,Singapore Indoor Stadium,['Imprompt-3'],2524080,The_Red,16344,16344,1.0
+305,Kuala Lumpur,Malaysia,Putra Indoor Stadium,['IamNeeta'],998608,The_Red,7525,7525,1.0
+310,Bossier City,United States,CenturyLink Center,['Vance Joy'],1458197,The_1989_World,12459,12459,1.0
+311,Baton Rouge,United States,LSU Tiger Stadium,"['Vance Joy', 'Shawn Mendes']",4119670,The_1989_World,50227,50227,1.0
+312,Detroit,United States,Ford Field,"['Vance Joy', 'Shawn Mendes']",5999690,The_1989_World,50703,50703,1.0
+313,Louisville,United States,KFC Yum! Center,['Vance Joy'],1863281,The_1989_World,16242,16242,1.0
+314,Cleveland,United States,Quicken Loans Arena,['Vance Joy'],1732041,The_1989_World,15503,15503,1.0
+315,Pittsburgh,United States,Heinz Field,"['Vance Joy', 'Shawn Mendes']",5836926,The_1989_World,54801,54801,1.0
+316,Charlotte,United States,Time Warner Cable Arena,['Vance Joy'],1627798,The_1989_World,15024,15024,1.0
+317,Raleigh,United States,PNC Arena,['Vance Joy'],1653762,The_1989_World,13886,13886,1.0
+318,Philadelphia,United States,Lincoln Financial Field,"['Vance Joy', 'Shawn Mendes']",11987816,The_1989_World,101052,101052,1.0
+319,Philadelphia,United States,Lincoln Financial Field,"['Vance Joy', 'Shawn Mendes']",11987816,The_1989_World,101052,101052,1.0
+320,Cologne,Germany,Lanxess Arena,['James Bay'],2054690,The_1989_World,29020,29020,1.0
+321,Cologne,Germany,Lanxess Arena,['James Bay'],2054690,The_1989_World,29020,29020,1.0
+322,Amsterdam,Netherlands,Ziggo Dome,['James Bay'],800829,The_1989_World,11166,11166,1.0
+323,Glasgow,Scotland,SSE Hydro,['Vance Joy'],1119300,The_1989_World,11021,11021,1.0
+324,Manchester,England,Manchester Arena,['Vance Joy'],1478760,The_1989_World,14773,14773,1.0
+326,Dublin,Ireland,3Arena,['Vance Joy'],1975510,The_1989_World,25188,25188,1.0
+327,Dublin,Ireland,3Arena,['Vance Joy'],1975510,The_1989_World,25188,25188,1.0
+328,Ottawa,Canada,Canadian Tire Centre,['Vance Joy'],1325480,The_1989_World,13480,13480,1.0
+329,Montreal,Canada,Bell Centre,['Vance Joy'],1499040,The_1989_World,14770,14770,1.0
+330,East Rutherford,United States,MetLife Stadium,"['Vance Joy', 'Shawn Mendes', 'Haim']",13423858,The_1989_World,110105,110105,1.0
+331,East Rutherford,United States,MetLife Stadium,"['Vance Joy', 'Shawn Mendes', 'Haim']",13423858,The_1989_World,110105,110105,1.0
+332,Washington,United States,Nationals Park,"['Vance Joy', 'Shawn Mendes', 'Haim']",9730596,The_1989_World,85014,85014,1.0
+333,Washington,United States,Nationals Park,"['Vance Joy', 'Shawn Mendes', 'Haim']",9730596,The_1989_World,85014,85014,1.0
+334,Chicago,United States,Soldier Field,"['Vance Joy', 'Shawn Mendes', 'Haim']",11469887,The_1989_World,110109,110109,1.0
+335,Chicago,United States,Soldier Field,"['Vance Joy', 'Shawn Mendes', 'Haim']",11469887,The_1989_World,110109,110109,1.0
+336,Foxborough,United States,Gillette Stadium,"['Vance Joy', 'Shawn Mendes', 'Haim']",12533166,The_1989_World,116849,116849,1.0
+337,Foxborough,United States,Gillette Stadium,"['Vance Joy', 'Shawn Mendes', 'Haim']",12533166,The_1989_World,116849,116849,1.0
+338,Vancouver,Canada,BC Place,"['Vance Joy', 'Shawn Mendes']",4081820,The_1989_World,41463,41463,1.0
+339,Edmonton,Canada,Rexall Place,['Vance Joy'],2387080,The_1989_World,26534,26534,1.0
+340,Edmonton,Canada,Rexall Place,['Vance Joy'],2387080,The_1989_World,26534,26534,1.0
+341,Seattle,United States,CenturyLink Field,"['Vance Joy', 'Shawn Mendes']",6050643,The_1989_World,55711,55711,1.0
+342,Santa Clara,United States,Levi's Stadium,"['Vance Joy', 'Shawn Mendes']",13031146,The_1989_World,102139,102139,1.0
+343,Santa Clara,United States,Levi's Stadium,"['Vance Joy', 'Shawn Mendes']",13031146,The_1989_World,102139,102139,1.0
+344,Glendale,United States,Gila River Arena,['Vance Joy'],3029628,The_1989_World,26520,26520,1.0
+345,Glendale,United States,Gila River Arena,['Vance Joy'],3029628,The_1989_World,26520,26520,1.0
+346,Los Angeles,United States,Staples Center,"['Vance Joy', 'Haim']",8961681,The_1989_World,70563,70563,1.0
+347,Los Angeles,United States,Staples Center,"['Vance Joy', 'Haim']",8961681,The_1989_World,70563,70563,1.0
+348,Los Angeles,United States,Staples Center,"['Vance Joy', 'Haim']",8961681,The_1989_World,70563,70563,1.0
+349,Los Angeles,United States,Staples Center,"['Vance Joy', 'Haim']",8961681,The_1989_World,70563,70563,1.0
+350,Los Angeles,United States,Staples Center,"['Vance Joy', 'Haim']",8961681,The_1989_World,70563,70563,1.0
+351,San Diego,United States,Petco Park,"['Vance Joy', 'Shawn Mendes']",5475237,The_1989_World,44710,44710,1.0
+352,Salt Lake City,United States,EnergySolutions Arena,['Vance Joy'],1589686,The_1989_World,14131,14131,1.0
+353,Denver,United States,Pepsi Center,['Vance Joy'],2868991,The_1989_World,27126,27126,1.0
+354,Denver,United States,Pepsi Center,['Vance Joy'],2868991,The_1989_World,27126,27126,1.0
+355,Houston,United States,Minute Maid Park,"['Vance Joy', 'Shawn Mendes']",5202196,The_1989_World,40122,40122,1.0
+356,Saint Paul,United States,Xcel Energy Center,['Vance Joy'],5514863,The_1989_World,45126,45126,1.0
+357,Saint Paul,United States,Xcel Energy Center,['Vance Joy'],5514863,The_1989_World,45126,45126,1.0
+358,Saint Paul,United States,Xcel Energy Center,['Vance Joy'],5514863,The_1989_World,45126,45126,1.0
+359,Indianapolis,United States,Bankers Life Fieldhouse,['Vance Joy'],1550268,The_1989_World,14010,14010,1.0
+360,Columbus,United States,Nationwide Arena,['Vance Joy'],3369693,The_1989_World,29936,29936,1.0
+361,Columbus,United States,Nationwide Arena,['Vance Joy'],3369693,The_1989_World,29936,29936,1.0
+362,Kansas City,United States,Sprint Center,['Vance Joy'],2967558,The_1989_World,27857,27857,1.0
+363,Kansas City,United States,Sprint Center,['Vance Joy'],2967558,The_1989_World,27857,27857,1.0
+364,Nashville,United States,Bridgestone Arena,"['Vance Joy', 'Haim']",3354844,The_1989_World,28917,28917,1.0
+365,Nashville,United States,Bridgestone Arena,"['Vance Joy', 'Haim']",3354844,The_1989_World,28917,28917,1.0
+366,St. Louis,United States,Scottrade Center,"['Vance Joy', 'Haim']",3452940,The_1989_World,29688,29688,1.0
+367,St. Louis,United States,Scottrade Center,"['Vance Joy', 'Haim']",3452940,The_1989_World,29688,29688,1.0
+368,Toronto,Canada,Rogers Centre,"['Vance Joy', 'Shawn Mendes']",8670990,The_1989_World,99283,99283,1.0
+369,Toronto,Canada,Rogers Centre,"['Vance Joy', 'Shawn Mendes']",8670990,The_1989_World,99283,99283,1.0
+370,Des Moines,United States,Wells Fargo Arena,['Vance Joy'],1566321,The_1989_World,13969,13969,1.0
+371,Omaha,United States,CenturyLink Center Omaha,['Vance Joy'],3121421,The_1989_World,29622,29622,1.0
+372,Omaha,United States,CenturyLink Center Omaha,['Vance Joy'],3121421,The_1989_World,29622,29622,1.0
+373,Fargo,United States,Fargodome,['Vance Joy'],2219188,The_1989_World,21067,21067,1.0
+374,Arlington,United States,AT&T Stadium,"['Vance Joy', 'Shawn Mendes']",7396733,The_1989_World,62630,62630,1.0
+375,Lexington,United States,Rupp Arena,['Vance Joy'],1870471,The_1989_World,17084,17084,1.0
+376,Greensboro,United States,Greensboro Coliseum,['Vance Joy'],1662171,The_1989_World,15079,15079,1.0
+377,Atlanta,United States,Georgia Dome,"['Vance Joy', 'Shawn Mendes']",6034846,The_1989_World,56046,56046,1.0
+378,Miami,United States,American Airlines Arena,['Vance Joy'],1527919,The_1989_World,14044,14044,1.0
+379,Tampa,United States,Raymond James Stadium,"['Vance Joy', 'Shawn Mendes']",6202515,The_1989_World,56987,56987,1.0
+385,Sydney,Australia,ANZ Stadium,['Vance Joy'],6571683,The_1989_World,75980,75980,1.0
+386,Brisbane,Australia,Suncorp Stadium,['Vance Joy'],4759471,The_1989_World,46881,46881,1.0
+387,Adelaide,Australia,Adelaide Entertainment Centre,['Vance Joy'],2407499,The_1989_World,20090,20090,1.0
+388,Adelaide,Australia,Adelaide Entertainment Centre,['Vance Joy'],2407499,The_1989_World,20090,20090,1.0
+389,Melbourne,Australia,AAMI Park,['Vance Joy'],10421553,The_1989_World,98136,98136,1.0
+390,Melbourne,Australia,AAMI Park,['Vance Joy'],10421553,The_1989_World,98136,98136,1.0
+391,Melbourne,Australia,AAMI Park,['Vance Joy'],10421553,The_1989_World,98136,98136,1.0
+392,Glendale,United States,University of Phoenix Stadium,"['Camila Cabello', 'Charli XCX']",7214478,Reputation_Stadium,59157,59157,1.0
+393,Santa Clara,United States,Levi's Stadium,"['Camila Cabello', 'Charli XCX']",14006963,Reputation_Stadium,107550,107550,1.0
+394,Santa Clara,United States,Levi's Stadium,"['Camila Cabello', 'Charli XCX']",14006963,Reputation_Stadium,107550,107550,1.0
+395,Pasadena,United States,Rose Bowl,"['Camila Cabello', 'Charli XCX']",16251980,Reputation_Stadium,118084,118084,1.0
+396,Pasadena,United States,Rose Bowl,"['Camila Cabello', 'Charli XCX']",16251980,Reputation_Stadium,118084,118084,1.0
+397,Seattle,United States,CenturyLink Field,['Charli XCX'],8672219,Reputation_Stadium,56021,56021,1.0
+398,Denver,United States,Sports Authority Field at Mile High,"['Camila Cabello', 'Charli XCX']",7926366,Reputation_Stadium,57140,57140,1.0
+399,Chicago,United States,Soldier Field,"['Camila Cabello', 'Charli XCX']",14576697,Reputation_Stadium,105208,105208,1.0
+400,Chicago,United States,Soldier Field,"['Camila Cabello', 'Charli XCX']",14576697,Reputation_Stadium,105208,105208,1.0
+401,Manchester,England,Etihad Stadium,"['Camila Cabello', 'Charli XCX']",6169724,Reputation_Stadium,77258,77258,1.0
+402,Manchester,England,Etihad Stadium,"['Camila Cabello', 'Charli XCX']",6169724,Reputation_Stadium,77258,77258,1.0
+403,Dublin,Ireland,Croke Park,"['Camila Cabello', 'Charli XCX']",8567769,Reputation_Stadium,133034,133034,1.0
+404,Dublin,Ireland,Croke Park,"['Camila Cabello', 'Charli XCX']",8567769,Reputation_Stadium,133034,133034,1.0
+405,London,England,Wembley Stadium,"['Camila Cabello', 'Charli XCX']",12214933,Reputation_Stadium,143427,143427,1.0
+406,London,England,Wembley Stadium,"['Camila Cabello', 'Charli XCX']",12214933,Reputation_Stadium,143427,143427,1.0
+407,Louisville,United States,Cardinal Stadium,"['Camila Cabello', 'Charli XCX']",4928219,Reputation_Stadium,52138,52138,1.0
+408,Columbus,United States,Ohio Stadium,"['Camila Cabello', 'Charli XCX']",6606529,Reputation_Stadium,62897,62897,1.0
+409,Landover,United States,FedExField,"['Camila Cabello', 'Charli XCX']",11396004,Reputation_Stadium,95672,95672,1.0
+410,Landover,United States,FedExField,"['Camila Cabello', 'Charli XCX']",11396004,Reputation_Stadium,95672,95672,1.0
+411,Philadelphia,United States,Lincoln Financial Field,"['Camila Cabello', 'Charli XCX']",11951047,Reputation_Stadium,107378,107378,1.0
+412,Philadelphia,United States,Lincoln Financial Field,"['Camila Cabello', 'Charli XCX']",11951047,Reputation_Stadium,107378,107378,1.0
+413,Cleveland,United States,FirstEnergy Stadium,"['Camila Cabello', 'Charli XCX']",5148757,Reputation_Stadium,51323,51323,1.0
+414,East Rutherford,United States,MetLife Stadium,"['Camila Cabello', 'Charli XCX']",22031386,Reputation_Stadium,165654,165654,1.0
+415,East Rutherford,United States,MetLife Stadium,"['Camila Cabello', 'Charli XCX']",22031386,Reputation_Stadium,165654,165654,1.0
+416,East Rutherford,United States,MetLife Stadium,"['Camila Cabello', 'Charli XCX']",22031386,Reputation_Stadium,165654,165654,1.0
+417,Foxborough,United States,Gillette Stadium,"['Camila Cabello', 'Charli XCX']",21779846,Reputation_Stadium,174764,174764,1.0
+418,Foxborough,United States,Gillette Stadium,"['Camila Cabello', 'Charli XCX']",21779846,Reputation_Stadium,174764,174764,1.0
+419,Foxborough,United States,Gillette Stadium,"['Camila Cabello', 'Charli XCX']",21779846,Reputation_Stadium,174764,174764,1.0
+420,Toronto,Canada,Rogers Centre,"['Camila Cabello', 'Charli XCX']",11177000,Reputation_Stadium,100310,100310,1.0
+421,Toronto,Canada,Rogers Centre,"['Camila Cabello', 'Charli XCX']",11177000,Reputation_Stadium,100310,100310,1.0
+422,Pittsburgh,United States,Heinz Field,"['Camila Cabello', 'Charli XCX']",6230876,Reputation_Stadium,56445,56445,1.0
+423,Atlanta,United States,Mercedes-Benz Stadium,"['Camila Cabello', 'Charli XCX']",18089415,Reputation_Stadium,116746,116746,1.0
+424,Atlanta,United States,Mercedes-Benz Stadium,"['Camila Cabello', 'Charli XCX']",18089415,Reputation_Stadium,116746,116746,1.0
+425,Tampa,United States,Raymond James Stadium,"['Camila Cabello', 'Charli XCX']",7244264,Reputation_Stadium,55909,55909,1.0
+426,Miami Gardens,United States,Hard Rock Stadium,"['Camila Cabello', 'Charli XCX']",7072164,Reputation_Stadium,47818,47818,1.0
+427,Nashville,United States,Nissan Stadium,"['Camila Cabello', 'Charli XCX']",9007179,Reputation_Stadium,56112,56112,1.0
+428,Detroit,United States,Ford Field,"['Camila Cabello', 'Charli XCX']",6597852,Reputation_Stadium,49464,49464,1.0
+429,Minneapolis,United States,U.S. Bank Stadium,"['Camila Cabello', 'Charli XCX']",10242024,Reputation_Stadium,98774,98774,1.0
+430,Minneapolis,United States,U.S. Bank Stadium,"['Camila Cabello', 'Charli XCX']",10242024,Reputation_Stadium,98774,98774,1.0
+431,Kansas City,United States,Arrowhead Stadium,"['Camila Cabello', 'Charli XCX']",6730138,Reputation_Stadium,58611,58611,1.0
+432,Indianapolis,United States,Lucas Oil Stadium,"['Camila Cabello', 'Charli XCX']",6531245,Reputation_Stadium,55729,55729,1.0
+433,St. Louis,United States,The Dome at America's Center,"['Camila Cabello', 'Charli XCX']",4884054,Reputation_Stadium,47831,47831,1.0
+434,New Orleans,United States,Mercedes-Benz Superdome,"['Camila Cabello', 'Charli XCX']",6491546,Reputation_Stadium,53172,53172,1.0
+435,Houston,United States,NRG Stadium,"['Camila Cabello', 'Charli XCX']",9350275,Reputation_Stadium,53800,53800,1.0
+436,Arlington,United States,AT&T Stadium,"['Camila Cabello', 'Charli XCX']",15006157,Reputation_Stadium,105002,105002,1.0
+437,Arlington,United States,AT&T Stadium,"['Camila Cabello', 'Charli XCX']",15006157,Reputation_Stadium,105002,105002,1.0
+438,Perth,Australia,Optus Stadium,"['Charli XCX', 'Broods']",4153658,Reputation_Stadium,50891,50891,1.0
+439,Melbourne,Australia,Marvel Stadium,"['Charli XCX', 'Broods']",6755570,Reputation_Stadium,63027,63027,1.0
+440,Sydney,Australia,ANZ Stadium,"['Charli XCX', 'Broods']",7686564,Reputation_Stadium,72805,72805,1.0
+441,Brisbane,Australia,The Gabba,"['Charli XCX', 'Broods']",4338127,Reputation_Stadium,43907,43907,1.0
+442,Auckland,New Zealand,Mount Smart Stadium,"['Charli XCX', 'Broods']",3617593,Reputation_Stadium,35749,35749,1.0
+443,Tokyo,Japan,Tokyo Dome,['Charli XCX'],14859847,Reputation_Stadium,100109,100109,1.0
+444,Tokyo,Japan,Tokyo Dome,['Charli XCX'],14859847,Reputation_Stadium,100109,100109,1.0
